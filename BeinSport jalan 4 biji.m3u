@@ -1,0 +1,12 @@
+#EXTM3U
+#EXTINF:-1,beIN Sports HD 1 Max SD
+http://cdn.wanaiptv.net:2052/live/cremtv.com/123450/252240.m3u8
+
+#EXTINF:-1,beIN Sports HD 1 Max HD
+http://cdn.wanaiptv.net:2052/live/cremtv.com/123450/252239.m3u8
+
+#EXTINF:-1,beIN Sports HD 1 Max FHD
+http://cdn.wanaiptv.net:2052/live/cremtv.com/123450/252238.m3u8
+
+#EXTINF:-1,beIN Sports HD 2 Max SD
+http://cdn.wanaiptv.net:2052/live/cremtv.com/123450/252237.m3u8
